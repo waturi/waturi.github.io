@@ -9,7 +9,7 @@
 title: Mr Waturi welcomes you
 email: waturi@waturi.com
 description: > # this means to ignore newlines until "baseurl:"
-"still exploring who I am"
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: waturi
